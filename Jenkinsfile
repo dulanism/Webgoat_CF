@@ -9,7 +9,7 @@ pipeline {
         IQ_STAGE = "build"
 
         // Amend these
-        IQ_APPNAME = "webgoat_cf"
+        IQ_APPNAME = "wg_callflow"
         JENKINS_CREDS_ID = "iqserver"
     }
 
